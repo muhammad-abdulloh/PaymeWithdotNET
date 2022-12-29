@@ -1,5 +1,6 @@
 namespace PaymeWithdotNET
 {
+    /// xml comment
     public class WeatherForecast
     {
         public DateOnly Date { get; set; }
